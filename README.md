@@ -1,8 +1,6 @@
 # Hello, I'm Zachary Reyna
 <a href="www.linkedin.com/in/zachary-reyna-3a4952311"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am an individual with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
