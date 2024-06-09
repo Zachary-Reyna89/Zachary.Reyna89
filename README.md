@@ -4,7 +4,6 @@
 I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am an individual with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 During the bootcamp, I engaged in real-world scenarios, simulated cyber attacks, and defensive strategies, which are pivotal for understanding the complexities of modern cyber threats. I also gained proficiency in various tools and technologies commonly used in the industry, such as SIEM systems, firewalls, intrusion detection systems, and various programming languages for security scripting.
 
