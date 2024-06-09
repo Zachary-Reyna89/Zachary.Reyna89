@@ -13,7 +13,7 @@ During the bootcamp, I engaged in real-world scenarios, simulated cyber attacks,
 |-----------------------------------------------|----------------------------|
 | Penetration Testing report                    | <a href="https://drive.google.com/file/d/1xQJDed3XnJJCj4DRsLN-woS5ddVrmyAx/view?usp=share_link">Detection Lab</a>|
 | Pre-Onboarding Runbook                        | <a href="https://drive.google.com/file/d/12cuH_LchHclbozR63YXDcWnPm4SJjnIO/view?usp=share_link">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Python Technical Assesment                    | <a href="https://drive.google.com/file/d/1vLbYGRA_9DT_IqxKUNToDrfbW_n9yMXF/view?usp=share_link">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
