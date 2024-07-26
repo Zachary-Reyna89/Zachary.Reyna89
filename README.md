@@ -1,7 +1,7 @@
 # Hello, I'm Zachary Reyna
 <a href="https://www.linkedin.com/in/zachary-reyna-3a4952311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am an individual with a profound interest in technology and a dedication to solving complex problems. Currently, I am diligently preparing for the CompTIA Security+ certification exam. 
+I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am an individual with a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective
 
