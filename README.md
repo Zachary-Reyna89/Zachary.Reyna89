@@ -15,6 +15,8 @@ Dedicated and driven recent graduate from Fullstack Academy's Cyber Security Boo
 | Pre-Onboarding Runbook                        | <a href="https://drive.google.com/file/d/12cuH_LchHclbozR63YXDcWnPm4SJjnIO/view?usp=share_link">Detection Lab</a>|
 | Python Technical Assesment                    | <a href="https://drive.google.com/file/d/1vLbYGRA_9DT_IqxKUNToDrfbW_n9yMXF/view?usp=share_link">Detection Lab</a>|
 | Wireshark Basic Network Security Analysis     | <a href="https://drive.google.com/file/d/1DNd1p3YfZNP0GExSFEsSFShb-JjsGlUA/view?usp=drive_link">Detection Lab</a>|
+| Configure Firewall Rule                       | <a href="https://drive.google.com/file/d/1TdUQk0rSAuJxmfXvWtKVSHpNCDav7Bgq/view?usp=drive_link">Detection Lab</a>|
+| Windows Defender Firewall Advance Security    | <a href="https://drive.google.com/file/d/14vcVlgzH9V6ch0iIfmvIJfC_JbnH28f-/view?usp=drive_link">Detection Lab</a>|
 
 ## Skills
 
