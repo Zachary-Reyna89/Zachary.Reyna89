@@ -7,9 +7,9 @@ I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am 
 
 Dedicated and driven recent graduate from Fullstack Academy's Cyber Security Bootcamp, transitioning into the field of cybersecurity with a strong foundation in Linux, networking, and system administration. I am eager to apply my skills and knowledge in a professional setting, seeking a role as a Cyber Security Analyst or IT Help Desk Technician. With a passion for protecting digital assets and a commitment to continuous learning, I am prepared to contribute to a dynamic team and help safeguard organizational information.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penetration Testing report                    | <a href="https://drive.google.com/file/d/1xQJDed3XnJJCj4DRsLN-woS5ddVrmyAx/view?usp=share_link">Detection Lab</a>|
 | Pre-Onboarding Runbook                        | <a href="https://drive.google.com/file/d/12cuH_LchHclbozR63YXDcWnPm4SJjnIO/view?usp=share_link">Detection Lab</a>|
