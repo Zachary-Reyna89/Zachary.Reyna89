@@ -5,7 +5,7 @@ I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am 
 
 ## Objective
 
-Dedicated and driven recent graduate from Fullstack Academy's Cyber Security Bootcamp, transitioning into the field of cybersecurity with a strong foundation in Linux, networking, and system administration. I am eager to apply my skills and knowledge in a professional setting, seeking a role as a Cyber Security Analyst or IT Help Desk Technician. With a passion for protecting digital assets and a commitment to continuous learning, I am prepared to contribute to a dynamic team and help safeguard organizational information.
+Dedicated and driven recent graduate from Fullstack Academy's Cyber Security Bootcamp, transitioning into the field of cybersecurity with a strong foundation in Linux, networking, and system administration. I am eager to apply my skills and knowledge in a professional setting, seeking a role as a Cyber Security Analyst, SOC Analyst, or IT Help Desk Technician. With a passion for protecting digital assets and a commitment to continuous learning, I am prepared to contribute to a dynamic team and help safeguard organizational information.
 
 ## Projects
 
