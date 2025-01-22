@@ -3,24 +3,14 @@
 
 ## Objective
 
-My name is Zachary Reyna, and I am a dedicated cybersecurity professional and finance graduate with a strong technical foundation, practical experience, and a passion for problem-solving. I bring a unique blend of analytical and technical skills gained through education, certifications, and diverse professional roles.
+My name is Zachary Reyna, and I am a cybersecurity professional and finance graduate with a passion for solving complex problems and continuously learning. This repository showcases my technical projects, hands-on practice, and innovative solutions, reflecting my journey in the cybersecurity and financial sectors.
 
-Education
-•	Cybersecurity Analytics | University of Texas at Dallas, powered by Fullstack Academy (July 2024)
-Completed intensive training in penetration testing, networking, Linux, Python scripting, and cybersecurity frameworks, preparing me to tackle modern security challenges.
+I hold a Cybersecurity Analytics certificate from the University of Texas at Dallas powered by Fullstack Academy, where I gained expertise in penetration testing, Linux, Python scripting, networking, and cybersecurity frameworks. I also earned a BBA in Finance from the University of Houston’s C.T. Bauer College of Business, providing me with a strong foundation in financial analysis, strategic planning, and leadership.
 
-•	Bachelor of Business Administration in Finance | University of Houston – C.T. Bauer College of Business (August 2016)
-Developed a strong foundation in financial analysis, leadership, and strategic planning.
+My professional experience spans multiple roles, including my current position as a Penetration Tester (Journeyman) at Secure Evolution. I have honed my skills in network enumeration, lateral movement strategies, and security testing while developing playbooks and improving operational security processes. During my time as a Cybersecurity Intern, I automated reconnaissance tasks, deployed practice environments, and explored Active Directory attack techniques. Before transitioning into cybersecurity, I worked as a Financial Renewables Coordinator at Duke Energy, where I managed high-voltage maintenance programs, implemented secure networks, and streamlined procurement processes.
 
-Professional Experience
-•	Penetration Tester (Journeyman) | Secure Evolution (March 2024 – Present)
-Contributed to network enumeration, lateral movement strategies, and security testing while developing playbooks and learning advanced testing methodologies.
-•	Cybersecurity Intern | Secure Evolution (January 2024 – March 2024)
-Automated external reconnaissance tasks and deployed virtual environments to practice Active Directory attack techniques.
-•	Financial Renewables Coordinator | Duke Energy (October 2016 – October 2023)
-Led high-stakes projects involving procurement, budget management, and maintenance for renewable energy sites. Implemented secure networks and streamlined processes for operational efficiency.
+In addition to my professional accomplishments, I am certified in CompTIA Security+ and am pursuing further advanced certifications, such as the CREST Practitioner Security Analyst and Attacking Active Directory with Linux.
 
-I am committed to continuous learning and using my skills to solve complex problems and improve system security. Feel free to explore the projects and reach out with any questions or feedback. 
 
 ## Projects
 
