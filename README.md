@@ -1,8 +1,6 @@
 # Hello, I'm Zachary Reyna
 <a href="https://www.linkedin.com/in/zachary-reyna-3a4952311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from the FullStack Academy Cyber Security Bootcamp. I am an individual with a profound interest in technology and a dedication to solving complex problems. 
-
 ## Objective
 
 Dedicated and driven recent graduate from Fullstack Academy's Cyber Security Bootcamp, transitioning into the field of cybersecurity with a strong foundation in Linux, networking, and system administration. I am eager to apply my skills and knowledge in a professional setting, seeking a role as a Cyber Security Analyst, SOC Analyst, or IT Help Desk Technician. With a passion for protecting digital assets and a commitment to continuous learning, I am prepared to contribute to a dynamic team and help safeguard organizational information.
