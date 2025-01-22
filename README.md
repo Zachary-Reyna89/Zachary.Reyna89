@@ -3,7 +3,35 @@
 
 ## Objective
 
-Dedicated and driven recent graduate from Fullstack Academy's Cyber Security Bootcamp, transitioning into the field of cybersecurity with a strong foundation in Linux, networking, and system administration. I am eager to apply my skills and knowledge in a professional setting, seeking a role as a Cyber Security Analyst, SOC Analyst, or IT Help Desk Technician. With a passion for protecting digital assets and a commitment to continuous learning, I am prepared to contribute to a dynamic team and help safeguard organizational information.
+My name is Zachary Reyna, and I am a dedicated cybersecurity professional and finance graduate with a strong technical foundation, practical experience, and a passion for problem-solving. I bring a unique blend of analytical and technical skills gained through education, certifications, and diverse professional roles.
+Education
+•	Cybersecurity Analytics | University of Texas at Dallas, powered by Fullstack Academy (July 2024)
+Completed intensive training in penetration testing, networking, Linux, Python scripting, and cybersecurity frameworks, preparing me to tackle modern security challenges.
+•	Bachelor of Business Administration in Finance | University of Houston – C.T. Bauer College of Business (August 2016)
+Developed a strong foundation in financial analysis, leadership, and strategic planning.
+Certifications
+•	CompTIA Security+ (July 2024)
+•	HTB Academy Penetration Tester Learning Path (September 2024)
+•	Attacking Active Directory with Linux (Ongoing)
+•	CREST Practitioner Security Analyst (Ongoing)
+Professional Experience
+•	Penetration Tester (Journeyman) | Secure Evolution (March 2024 – Present)
+Contributed to network enumeration, lateral movement strategies, and security testing while developing playbooks and learning advanced testing methodologies.
+•	Cybersecurity Intern | Secure Evolution (January 2024 – March 2024)
+Automated external reconnaissance tasks and deployed virtual environments to practice Active Directory attack techniques.
+•	Financial Renewables Coordinator | Duke Energy (October 2016 – October 2023)
+Led high-stakes projects involving procurement, budget management, and maintenance for renewable energy sites. Implemented secure networks and streamlined processes for operational efficiency.
+
+Technical Skills
+•	Pentesting Tools: Nmap, Nessus, Wireshark, Metasploit, and Impacket
+•	Programming/Scripting: Python, PowerShell, and Bash
+•	Business Tools: Maximo, Microsoft Office, Peachtree, and QuickBooks
+Repository Focus
+Here, you'll find my technical projects, including:
+•	Scripts for penetration testing and automation.
+•	Hands-on cybersecurity practice environments and configurations.
+•	Applications of advanced security testing methodologies.
+I am committed to continuous learning and using my skills to solve complex problems and improve system security. Feel free to explore the projects and reach out with any questions or feedback. 
 
 ## Projects
 
