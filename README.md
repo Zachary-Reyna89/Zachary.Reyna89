@@ -22,6 +22,7 @@ In addition to my professional accomplishments, I am certified in CompTIA Securi
 | Wireshark Basic Network Security Analysis     | <a href="https://drive.google.com/file/d/1DNd1p3YfZNP0GExSFEsSFShb-JjsGlUA/view?usp=drive_link">Detection Lab</a>|
 | Configure Firewall Rule                       | <a href="https://drive.google.com/file/d/1TdUQk0rSAuJxmfXvWtKVSHpNCDav7Bgq/view?usp=drive_link">Detection Lab</a>|
 | Windows Defender Firewall Advance Security    | <a href="https://drive.google.com/file/d/14vcVlgzH9V6ch0iIfmvIJfC_JbnH28f-/view?usp=drive_link">Detection Lab</a>|
+| Email Analysis (Phishing)                     | <a href="https://drive.google.com/file/d/1TqnkJx3NMm6xetD24wnVm3DNEOETJA3W/view?usp=drive_link">Detection Lab</a>|
 
 ## Skills
 
