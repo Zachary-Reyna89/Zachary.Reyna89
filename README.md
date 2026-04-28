@@ -3,13 +3,15 @@
 
 ## Objective
 
-My name is Zachary Reyna, and I am a cybersecurity professional and finance graduate with a passion for solving complex problems and continuously learning. This repository showcases my technical projects, hands-on practice, and innovative solutions, reflecting my journey in the cybersecurity and financial sectors.
+My name is Zachary Reyna, and I am an entry-level cloud and full stack engineer with a background in cybersecurity and IT support. I specialize in building and deploying real-world solutions using AWS, Linux, and modern web technologies.
 
-I hold a Cybersecurity Analytics certificate from the University of Texas at Dallas powered by Fullstack Academy, where I gained expertise in penetration testing, Linux, Python scripting, networking, and cybersecurity frameworks. I also earned a BBA in Finance from the University of Houston’s C.T. Bauer College of Business, providing me with a strong foundation in financial analysis, strategic planning, and leadership.
+This repository showcases hands-on projects where I have deployed EC2 web servers, hosted static websites using S3, and implemented IAM-based access control following least privilege principles. Through these projects, I’ve gained practical experience in cloud infrastructure, networking, system configuration, and troubleshooting.
 
-My professional experience spans multiple roles, including my current position as a Penetration Tester (Journeyman) at Secure Evolution. I have honed my skills in network enumeration, lateral movement strategies, and security testing while assisting in developing playbooks and improving operational security processes. During my time as a Cybersecurity Intern, I observed how to automate reconnaissance tasks, deploy practice environments, and explored Active Directory attack techniques. Before transitioning into cybersecurity, I worked as a Financial Renewables Coordinator at Duke Energy, where I managed high-voltage maintenance programs, implemented secure networks, and streamlined procurement processes.
+I hold a Cybersecurity Analytics certificate from the University of Texas at Dallas (Fullstack Academy) and a BBA in Finance from the University of Houston. I am also CompTIA Security+ certified, giving me a strong foundation in security, networking, and system design.
 
-In addition to my professional accomplishments, I am certified in CompTIA Security+ and am pursuing further advanced certifications, such as the CREST Practitioner Security Analyst and Attacking Active Directory with Linux.
+My professional background includes IT support and systems troubleshooting, where I resolved technical issues, managed user access, and supported business-critical applications. I bring a problem-solving mindset and a focus on building scalable, secure systems.
+
+I am actively seeking opportunities where I can contribute to building, deploying, and improving cloud-based applications while continuing to grow as an engineer.
 
 
 ## Projects
@@ -17,10 +19,8 @@ In addition to my professional accomplishments, I am certified in CompTIA Securi
 | Project                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | EC2 Web Server                                | <a href="https://drive.google.com/file/d/1EYufmqVtrRsMlC8_qQD5ABCOHIF1TXkf/view?usp=drive_link">Detection Lab</a>|
-| S3 Static Website                             | <a href="https://drive.google.com/file/d/1HQjtLud_7OJykkq_FtWsBYMM4Jw29UlN/view?usp=drive_link">Detection
-Lab</a>|
-| IAM User + Security                           | <a href="https://drive.google.com/file/d/1BLn5RpXFL_u5YAo9ALzVvPF8ZJadPtiV/view?usp=drive_link">Detection
-Lab</a>|
+| S3 Static Website                             | <a href="https://drive.google.com/file/d/1HQjtLud_7OJykkq_FtWsBYMM4Jw29UlN/view?usp=drive_link">Detection Lab</a>|
+| IAM User + Security                           | <a href="https://drive.google.com/file/d/1BLn5RpXFL_u5YAo9ALzVvPF8ZJadPtiV/view?usp=drive_link">Detection Lab</a>|
 | Penetration Testing report                    | <a href="https://drive.google.com/file/d/1xQJDed3XnJJCj4DRsLN-woS5ddVrmyAx/view?usp=share_link">Detection Lab</a>|
 | Pre-Onboarding Runbook                        | <a href="https://drive.google.com/file/d/12cuH_LchHclbozR63YXDcWnPm4SJjnIO/view?usp=share_link">Detection Lab</a>|
 | Python Technical Assesment                    | <a href="https://drive.google.com/file/d/1vLbYGRA_9DT_IqxKUNToDrfbW_n9yMXF/view?usp=share_link">Detection Lab</a>|
