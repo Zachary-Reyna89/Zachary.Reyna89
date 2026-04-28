@@ -16,6 +16,11 @@ In addition to my professional accomplishments, I am certified in CompTIA Securi
 
 | Project                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| EC2 Web Server                                | <a href="https://drive.google.com/file/d/1EYufmqVtrRsMlC8_qQD5ABCOHIF1TXkf/view?usp=drive_link">Detection Lab</a>|
+| S3 Static Website                             | <a href="https://drive.google.com/file/d/1HQjtLud_7OJykkq_FtWsBYMM4Jw29UlN/view?usp=drive_link">Detection
+Lab</a>|
+| IAM User + Security                           | <a href="https://drive.google.com/file/d/1BLn5RpXFL_u5YAo9ALzVvPF8ZJadPtiV/view?usp=drive_link">Detection
+Lab</a>|
 | Penetration Testing report                    | <a href="https://drive.google.com/file/d/1xQJDed3XnJJCj4DRsLN-woS5ddVrmyAx/view?usp=share_link">Detection Lab</a>|
 | Pre-Onboarding Runbook                        | <a href="https://drive.google.com/file/d/12cuH_LchHclbozR63YXDcWnPm4SJjnIO/view?usp=share_link">Detection Lab</a>|
 | Python Technical Assesment                    | <a href="https://drive.google.com/file/d/1vLbYGRA_9DT_IqxKUNToDrfbW_n9yMXF/view?usp=share_link">Detection Lab</a>|
