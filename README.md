@@ -21,6 +21,8 @@ I am actively seeking opportunities where I can contribute to building, deployin
 | EC2 Web Server                                | <a href="https://drive.google.com/file/d/1EYufmqVtrRsMlC8_qQD5ABCOHIF1TXkf/view?usp=drive_link">Detection Lab</a>|
 | S3 Static Website                             | <a href="https://drive.google.com/file/d/1HQjtLud_7OJykkq_FtWsBYMM4Jw29UlN/view?usp=drive_link">Detection Lab</a>|
 | IAM User + Security                           | <a href="https://drive.google.com/file/d/1BLn5RpXFL_u5YAo9ALzVvPF8ZJadPtiV/view?usp=drive_link">Detection Lab</a>|
+| Global CO2 Emissions Analysis (SQL, BigQuery) | <a href="https://drive.google.com/file/d/1ysROMP8xbsPHb_r9GYFys8ycOsnyqAq1/view?usp=drive_link">Detection Lab</a>|
+| Video Game Industry Analysis (SQL, Data Cleaning, Window Functions) | <a href="https://drive.google.com/file/d/1d2fxMRO6h_3Dqxy5gMLvkgkxlp5Mi758/view?usp=drive_link">Detection Lab</a>|
 | Penetration Testing report                    | <a href="https://drive.google.com/file/d/1xQJDed3XnJJCj4DRsLN-woS5ddVrmyAx/view?usp=share_link">Detection Lab</a>|
 | Pre-Onboarding Runbook                        | <a href="https://drive.google.com/file/d/12cuH_LchHclbozR63YXDcWnPm4SJjnIO/view?usp=share_link">Detection Lab</a>|
 | Python Technical Assesment                    | <a href="https://drive.google.com/file/d/1vLbYGRA_9DT_IqxKUNToDrfbW_n9yMXF/view?usp=share_link">Detection Lab</a>|
