@@ -3,15 +3,20 @@
 
 ## Objective
 
-My name is Zachary Reyna, and I am an entry-level cloud and full stack engineer with a background in cybersecurity and IT support. I specialize in building and deploying real-world solutions using AWS, Linux, and modern web technologies.
+## Objective
 
-This repository showcases hands-on projects where I have deployed EC2 web servers, hosted static websites using S3, and implemented IAM-based access control following least privilege principles. Through these projects, I’ve gained practical experience in cloud infrastructure, networking, system configuration, and troubleshooting.
+My name is Zachary Reyna, and I am an entry-level cloud and full stack engineer with a background in cybersecurity, IT support, and data analysis. I specialize in building and deploying real-world solutions using AWS, Linux, SQL, and modern web technologies.
+
+This repository showcases hands-on projects where I have deployed EC2 web servers, hosted static websites using S3, and implemented IAM-based access control following least privilege principles. In addition, I have developed SQL-based data analysis projects, including a global CO2 emissions analysis and a video game industry analysis, where I applied data cleaning, aggregation, and window functions to uncover trends and business insights.
+
+Through these projects, I’ve gained practical experience in cloud infrastructure, networking, system configuration, troubleshooting, and data analysis using real-world datasets.
 
 I hold a Cybersecurity Analytics certificate from the University of Texas at Dallas (Fullstack Academy) and a BBA in Finance from the University of Houston. I am also CompTIA Security+ certified, giving me a strong foundation in security, networking, and system design.
 
-My professional background includes IT support and systems troubleshooting, where I resolved technical issues, managed user access, and supported business-critical applications. I bring a problem-solving mindset and a focus on building scalable, secure systems.
+My professional background includes IT support and systems troubleshooting, where I resolved technical issues, managed user access, and supported business-critical applications. I bring a problem-solving mindset and a focus on building scalable, secure, and data-driven systems.
 
 I am actively seeking opportunities where I can contribute to building, deploying, and improving cloud-based applications while continuing to grow as an engineer.
+
 
 
 ## Projects
